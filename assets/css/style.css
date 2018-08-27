@@ -1,0 +1,131 @@
+body {
+		margin: 0;
+	}
+
+	h1 {
+		background-color: #ff0000;
+		background-image: linear-gradient(green, gold);
+		font-size: 25px;
+		border-radius: 7%
+	}
+
+	nav {}
+
+	.nav_list {
+		list-style-type: none;
+	}
+
+	.nav_list li {
+		display: inline-block;
+		padding: 5px 30px 2px 1px;
+		margin: 10px 9px 5px 30px;
+		background: linear-gradient(green, white, black);
+		border-radius: 1%;
+	}
+
+	.nav_list li a {
+		text-decoration: none;
+		color: lightgreen;
+	}
+
+	h4 {
+		text-align: center;
+		color: darkseagreen
+	}
+
+	p1 {
+
+		color: green;
+	}
+
+	p1 {
+		float: left
+	}
+
+	input,
+	select,
+	option {
+
+		text-align: left;
+		color: limegreen;
+	}
+
+	h1 {
+		color: darkgoldenrod;
+	}
+
+	i {}
+
+	h4 {
+		background-image: linear-gradient(green, orange)
+	}
+
+	body {
+
+		background-image: repeating-linear-gradient(orange, white);
+	}
+
+	.Gallery_photos {
+		background-image: linear-gradient(brown, white)
+	}
+
+	.Gallery_photos {
+
+		display: flex;
+		flex-direction: row;
+		height: 260px;
+	}
+
+	.Smash {
+		display: flex;
+		flex-direction: row;
+		height: 260px;
+		padding: 0px 0px 50px 250px;
+	}
+
+	.Smashf {
+		padding: 0px 0px 80px 400px;
+		border-color: red;
+	}
+
+	.nav_list a:hover {
+		background-color: green;
+	}
+
+	.social_media a:hover {
+		color: green;
+	}
+
+
+	.bio {
+		background-image: linear-gradient(darkseagreen, white);
+		display: flex;
+	}
+
+
+	.videos {
+		display: flex;
+	}
+
+	.smashf {}
+
+	.search {
+		vertical-align: right;
+		text-align: center;
+		;
+	}
+
+	.Web_Owner {
+		color: mediumspringgreen;
+	}
+}
+
+
+h3 {
+	color: green;
+}
+
+.social_media {
+	padding: 2;
+		margin: 8px 30px 8px 8px
+}
